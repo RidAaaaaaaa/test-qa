@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class AutomationTestQA {
 	public static void main(String[] args) throws InterruptedException {
-		// Setup WebDriver
+		// Setup WebDriver1
 				WebDriverManager.chromedriver().setup();
 				WebDriver driver = new ChromeDriver();
 				
